@@ -7,7 +7,7 @@ The Capstone Project is the final course in the IBM AI Engineering Professional 
 
 Problem Statement:
 
-Medical image classification plays a crucial role in diagnosis and treatment planning. However, manually interpreting medical images is time-consuming and prone to errors. The objective of this project is to develop a deep learning model capable of automatically classifying medical images into different categories, aiding healthcare professionals in accurate diagnosis.
+Create an AI-driven solution for urban traffic management, employing deep learning to predict congestion in real-time. Implement proactive strategies like signal optimization and rerouting, enhancing efficiency and reducing congestion for improved urban mobility.
 
 Objectives
 - Application of AI and Machine Learning Techniques: Students use various AI and machine learning techniques learned throughout the certification program.
