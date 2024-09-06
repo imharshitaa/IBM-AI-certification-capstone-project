@@ -3,6 +3,8 @@ IBM AI ENGINEERING PROFESSIONAL CERTIFICATION
 
 # AI Engineering Capstone project with deep learning 
 
+TITLE: AI System for Real-Time Traffic Prediction and Management
+
 The Capstone Project is the final course in the IBM AI Engineering Professional Certificate offered on Coursera. This project serves as a comprehensive exercise to integrate and apply the skills and knowledge gained from the previous courses in the program.
 
 Problem Statement:
