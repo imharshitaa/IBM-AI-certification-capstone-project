@@ -1,9 +1,6 @@
 AI_Traffic_Prediction_Management/
 │
-├── data/                      # Directory for datasets
-│   ├── raw/                   # Original raw data files
-│   ├── processed/             # Processed data files
-│   └── traffic_data.csv       # Example traffic data file
+├── traffic_data.csv       # Example traffic data file
 │
 ├── notebooks/                 # Jupyter notebooks for analysis
 │   ├── exploratory_analysis.ipynb  # Exploratory Data Analysis (EDA) notebook
